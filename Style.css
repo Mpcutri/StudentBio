@@ -29,8 +29,9 @@ h1{
 
 	#bio-image {
 		float: left;
-		width: 70%;
 		margin-right: 15px;
+		width: 200px;
+		height: 200px;
 	}
 
 	#content-info {
